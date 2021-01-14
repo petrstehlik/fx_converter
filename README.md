@@ -1,8 +1,8 @@
 # FX Converter
 
-You are given a very easy task from a product manager: "Build me a currency converter."
+You are given a very brief description of a task from a product manager: "Build me a currency converter."
 
-In front of you lies a simple skeleton app which you can and should use to build such an amazing service.
+In front of you lies a skeleton app which you can and should use to build such an amazing service.
 
 ## What Is Expected
 
